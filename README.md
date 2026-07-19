@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Nawarathna TP 👋</h1>
+<h1 align="center">Hi there, I'm Praveen Nawarathna 👋</h1>
 
-<h3 align="center">Software Engineer | Backend • Frontend • AI/ML</h3>
+<h3 align="center">Computer Science and Engineering Undergraduate at University of Moratuwa </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Exploring+AI+%26+Machine+Learning;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;Always+shipping%2C+always+learning" alt="Typing SVG" />
@@ -15,9 +15,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I build backend services with **Spring Boot** and **FastAPI**, and frontends with **React**
-- 🤖 I work with data & ML using **NumPy**, **Pandas**, and **scikit-learn**
-- ☁️ Comfortable deploying and managing infrastructure on **AWS**
+- 🔭 I love desigining and building scalable backend systems
+- 🤖 I'm a AI/ML enthusiast currently working on NLP
+- ☁️ I'm comfortable deploying and managing infrastructure on **AWS**
 - 🛠️ I automate and containerize with **Docker** and **GitHub Actions**
 - 📫 Reach me via the links below — always open to interesting projects and collaborations!
 
@@ -37,6 +37,10 @@
 **Backend**
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
@@ -50,6 +54,9 @@
 **AI / ML & Data**
 
 <p>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -59,6 +66,7 @@
 **Cloud & DevOps**
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -93,17 +101,14 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/praveen-nawarathna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://instagram.com/sychpra" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+  <a href="mailto:praveenn.23@cse.mrt.ac.lk" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
