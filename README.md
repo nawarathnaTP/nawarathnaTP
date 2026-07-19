@@ -104,7 +104,7 @@
   <a href="https://linkedin.com/in/praveen-nawarathna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/sychpra" target="_blank">
+  <a href="https://instagram.com/sych.pra" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:praveenn.23@cse.mrt.ac.lk" target="_blank">
