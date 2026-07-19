@@ -15,8 +15,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I love desigining and building scalable backend systems
-- 🤖 I'm a AI/ML enthusiast currently working on NLP
+- 🔭 I love desigining and building **scalable backend systems**
+- 🤖 I'm a AI/ML enthusiast currently working on **Natural Language Processing**
 - ☁️ I enjoy exploring **Cloud Computing** and its evolving ecosystem
 - 🛠️ I'm comfortable with **AWS** deployment and containerization with **Docker**
 - 📫 Reach me via the links below — always open to interesting projects and collaborations!
@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
