@@ -3,7 +3,7 @@
 <h3 align="center">3rd year Computer Science and Engineering Undergraduate at University of Moratuwa </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Exploring+AI+%26+Machine+Learning;Java+%7C+Python;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Exploring+AI+%26+Machine+Learning;Java+%7C+Python+%7C+C%2B%2B;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
